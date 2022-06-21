@@ -1,0 +1,60 @@
+
+ Znaleziono miejsce zerowe w przedziale <    -5.25003    ,     -4.95003    >
+ Zawezanie przedzialu do <    -5.25003    ,     -4.95003    >
+ Zawezanie przedzialu do <    -5.10003    ,     -4.95003    >
+ Zawezanie przedzialu do <    -5.02503    ,     -4.95003    >
+ Zawezanie przedzialu do <    -5.02503    ,     -4.98753    >
+ Zawezanie przedzialu do <    -5.00628    ,     -4.98753    >
+ Zawezanie przedzialu do <    -5.00628    ,     -4.99690    >
+ Zawezanie przedzialu do <    -5.00159    ,     -4.99690    >
+ Zawezanie przedzialu do <    -5.00159    ,     -4.99925    >
+ Zawezanie przedzialu do <    -5.00042    ,     -4.99925    >
+ Zawezanie przedzialu do <    -5.00042    ,     -4.99983    >
+ Zawezanie przedzialu do <    -5.00013    ,     -4.99983    >
+ Zawezanie przedzialu do <    -5.00013    ,     -4.99998    >
+ Zawezanie przedzialu do <    -5.00005    ,     -4.99998    >
+ Zawezanie przedzialu do <    -5.00002    ,     -4.99998    >
+ Zawezanie przedzialu do <    -5.00002    ,     -5.00000    >
+ Miejsce zerowe to:     -5.00001
+ f(    -5.00001    ) =    -1.465149E-03
+ licznik =           83
+
+ Znaleziono miejsce zerowe w przedziale <     1.34997    ,      1.64997    >
+ Zawezanie przedzialu do <     1.34997    ,      1.64997    >
+ Zawezanie przedzialu do <     1.34997    ,      1.49997    >
+ Zawezanie przedzialu do <     1.34997    ,      1.42497    >
+ Zawezanie przedzialu do <     1.38747    ,      1.42497    >
+ Zawezanie przedzialu do <     1.40622    ,      1.42497    >
+ Zawezanie przedzialu do <     1.40622    ,      1.41560    >
+ Zawezanie przedzialu do <     1.41091    ,      1.41560    >
+ Zawezanie przedzialu do <     1.41325    ,      1.41560    >
+ Zawezanie przedzialu do <     1.41325    ,      1.41442    >
+ Zawezanie przedzialu do <     1.41384    ,      1.41442    >
+ Zawezanie przedzialu do <     1.41413    ,      1.41442    >
+ Zawezanie przedzialu do <     1.41413    ,      1.41428    >
+ Zawezanie przedzialu do <     1.41421    ,      1.41428    >
+ Zawezanie przedzialu do <     1.41421    ,      1.41424    >
+ Zawezanie przedzialu do <     1.41421    ,      1.41422    >
+ Miejsce zerowe to:      1.41421
+ f(     1.41421    ) =    -1.928290E-04
+ licznik =          105
+
+ Znaleziono miejsce zerowe w przedziale <     7.94997    ,      8.24997    >
+ Zawezanie przedzialu do <     7.94997    ,      8.24997    >
+ Zawezanie przedzialu do <     8.09997    ,      8.24997    >
+ Zawezanie przedzialu do <     8.09997    ,      8.17497    >
+ Zawezanie przedzialu do <     8.09997    ,      8.13747    >
+ Zawezanie przedzialu do <     8.11872    ,      8.13747    >
+ Zawezanie przedzialu do <     8.11872    ,      8.12810    >
+ Zawezanie przedzialu do <     8.11872    ,      8.12341    >
+ Zawezanie przedzialu do <     8.11872    ,      8.12107    >
+ Zawezanie przedzialu do <     8.11990    ,      8.12107    >
+ Zawezanie przedzialu do <     8.11990    ,      8.12048    >
+ Zawezanie przedzialu do <     8.11990    ,      8.12019    >
+ Zawezanie przedzialu do <     8.11990    ,      8.12004    >
+ Zawezanie przedzialu do <     8.11997    ,      8.12004    >
+ Zawezanie przedzialu do <     8.11997    ,      8.12001    >
+ Zawezanie przedzialu do <     8.11999    ,      8.12001    >
+ Miejsce zerowe to:      8.12000
+ f(     8.12000    ) =    -7.714954E-04
+ licznik =          127
